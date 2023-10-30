@@ -1,0 +1,46 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, h3, p, h5 {
+    text-align: center
+}
+
+div {
+    width: 600px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    background-color: bisque;
+    padding: 0;
+}
+
+a {
+    align-self: center;
+    color: black;
+    font-weight: bold;
+}
+
+button {
+    border-width: 5px;
+    width: 200px;
+    margin: 10px;
+    background-color: beige;
+    border-color: cornsilk;
+}
+
+hr {
+    width: 90%;
+    height: 5px;
+    background-color: blanchedalmond;
+}
